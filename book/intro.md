@@ -9,20 +9,7 @@ This book can be used as a template for other books. It includes a starter packa
 2. Item 2
   * subitem
 
-```{list-table}
-:header-rows: 1
-
-* - Spanning (V)
-  - Stroomsterkte (mA)
-* - 0
-  - 1
-  - 2
-  - 3
-  - 4
-  - 5
-* - 0
-  - 8
-  - 16
-  - 24
-  - 32
-```
+|    Training   |   Validation   |
+| :------------ | -------------: |
+|        0      |        5       |
+|     13720     |      2744      |
